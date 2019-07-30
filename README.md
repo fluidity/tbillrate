@@ -61,3 +61,7 @@ Discount for maturity 2019-09-01: 2.1028571428571428
 
 ## Data Source
 [Treasury Site](https://www.treasury.gov/resource-center/data-chart-center/interest-rates/Pages/TextView.aspx?data=billrates)
+
+
+## Contact Us
+Fluidity is a financial technology company based in Brooklyn, New York, on a mission to rebuild finance using blockchain technology. Reach us at team@fluidity.io for any inquiries related to this repository, the Tokenized Asset Portfolio (TAP), or working with our team.
